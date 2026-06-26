@@ -1,0 +1,65 @@
+/* #info1
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+#info2
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#info3
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/* #name
+{
+    text-decoration: underline;
+    text-decoration-color: white;
+} */
+
+
+
+/* #info
+{
+    margin-left: 75px;
+} */
+
+#info_names
+{
+    /* float: left; */
+    margin-top: 0px;
+    position: absolute;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-left: 50px;
+}
+
+#info_values
+{
+    margin-top: 0px;
+    position: relative;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-left: 100px;
+}

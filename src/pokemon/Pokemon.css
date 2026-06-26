@@ -1,0 +1,23 @@
+#base_names
+{
+    margin-top: 0px;
+    position: absolute;
+
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-left: 200px;
+}
+
+#base_values
+{
+    margin-top: 0px;
+
+    position: relative;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-left: 150px;
+}
